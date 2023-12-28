@@ -14,5 +14,4 @@ def count_up(start, stop):
     for x in range(start, stop+1):
         print(x)
 
-
 count_up(5, 7)
